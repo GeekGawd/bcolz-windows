@@ -1,6 +1,7 @@
 #!python
 #cython: embedsignature=True
 #cython: linetrace=True
+#cython: language_level=2
 #########################################################################
 #
 #       License: BSD
